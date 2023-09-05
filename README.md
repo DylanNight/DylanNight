@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DylanNight
-- 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning ...SQL
+- 👀 I’m interested in ... Data Analytics
+- 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
